@@ -23,6 +23,5 @@ int main() {
   int mat [5][5];
   ingresar(mat);
   mostrar(mat);
-
   return 0;
 }
